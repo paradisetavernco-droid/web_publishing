@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "date": "2026-10-11",
   "timezone": "America/Denver",
-  "status": "preview_not_public",
+  "status": "approved",
   "source_file": "add_schedule_tomorrow.json",
   "sports": [
     "NFL",
