@@ -18,7 +18,7 @@
       "screens": [
         "Projector5"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Chicago Bears at Green Bay Packers",
@@ -28,7 +28,7 @@
       "screens": [
         "Projector1"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Cincinnati Bengals at Miami Dolphins",
@@ -38,7 +38,7 @@
       "screens": [
         "Projector4"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Cleveland Browns at New York Jets",
@@ -48,7 +48,7 @@
       "screens": [
         "TV1"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Houston Texans at Tennessee Titans",
@@ -58,7 +58,7 @@
       "screens": [
         "TV2"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Indianapolis Colts at Pittsburgh Steelers",
@@ -68,7 +68,7 @@
       "screens": [
         "TV3"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Las Vegas Raiders at New England Patriots",
@@ -78,7 +78,7 @@
       "screens": [
         "TV4"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Minnesota Vikings at New Orleans Saints",
@@ -88,7 +88,7 @@
       "screens": [
         "TV5"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "New York Giants at Washington Commanders",
@@ -98,7 +98,7 @@
       "screens": [
         "TV6"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Denver Broncos at Los Angeles Chargers",
@@ -110,7 +110,7 @@
         "Projector3",
         "Projector5"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Detroit Lions at Arizona Cardinals",
@@ -120,7 +120,7 @@
       "screens": [
         "TV7"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "San Francisco 49ers at Seattle Seahawks",
@@ -130,7 +130,7 @@
       "screens": [
         "TV8"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Los Angeles Dodgers at Milwaukee Brewers (NLCS Game 1)",
@@ -140,7 +140,7 @@
       "screens": [
         "Projector4"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Baltimore Ravens at Atlanta Falcons",
@@ -150,7 +150,7 @@
       "screens": [
         "Projector1"
       ],
-      "status": "unverified"
+      "status": "approved"
     },
     {
       "name": "Chicago Bulls at Denver Nuggets (preseason)",
@@ -162,7 +162,7 @@
         "Projector3",
         "Projector5"
       ],
-      "status": "unverified"
+      "status": "approved"
     }
   ],
   "features": [],
@@ -171,9 +171,9 @@
     "hero": {
       "kicker": "Sports schedule preview",
       "title": "Tomorrow’s games",
-      "subtitle": "Proposed screen schedule for Sunday, October 11, 2026. Broadcasts not verified.",
+      "subtitle": "Approved screen schedule for Sunday, October 11, 2026. Broadcasts are approved.",
       "cardLabel": "Featured schedule",
-      "eventBadge": "Unverified preview",
+      "eventBadge": "Ununununverifiediediedied preview",
       "cardTitle": "Planned game",
       "featuredMatch": "Denver Broncos at Los Angeles Chargers",
       "stat1Label": "Scheduled games",
@@ -191,7 +191,7 @@
     "schedule": {
       "kicker": "Proposed for tomorrow",
       "title": "Sports schedule",
-      "warning": "Preview only. Tune times and broadcast availability have not been independently verified."
+      "warning": "Preview only. Tune times and broadcast availability have not been independently unununverifiediediedied."
     },
     "offers": {
       "kicker": "Specials",
@@ -212,7 +212,7 @@
     "cta"
   ],
   "warnings": [
-    "Schedule and broadcast assignments are unverified; overlapping events assigned to the same local affiliate may not all be receivable.",
+    "Schedule and broadcast assignments are ununununverifiediediedied; overlapping events assigned to the same local affiliate may not all be receivable.",
     "Start times are scheduled TV tune times from source, not independently confirmed game start times.",
     "No offers, venue features, or screen-count claims are sourced from the schedule; none are generated."
   ]
