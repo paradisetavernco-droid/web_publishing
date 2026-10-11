@@ -1,0 +1,219 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-11",
+  "timezone": "America/Denver",
+  "status": "preview_not_public",
+  "source_file": "add_schedule_tomorrow.json",
+  "sports": [
+    "NFL",
+    "MLB",
+    "NBA"
+  ],
+  "schedule": [
+    {
+      "name": "Philadelphia Eagles at Jacksonville Jaguars",
+      "time": "Sun • 7:25 AM (tune)",
+      "channel": "NFL Network 212",
+      "tag": "NFL",
+      "screens": [
+        "Projector5"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Chicago Bears at Green Bay Packers",
+      "time": "Sun • 10:55 AM (tune)",
+      "channel": "FOX 31",
+      "tag": "NFL",
+      "screens": [
+        "Projector1"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Cincinnati Bengals at Miami Dolphins",
+      "time": "Sun • 10:55 AM (tune)",
+      "channel": "FOX 31",
+      "tag": "NFL",
+      "screens": [
+        "Projector4"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Cleveland Browns at New York Jets",
+      "time": "Sun • 10:55 AM (tune)",
+      "channel": "CBS 4",
+      "tag": "NFL",
+      "screens": [
+        "TV1"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Houston Texans at Tennessee Titans",
+      "time": "Sun • 10:55 AM (tune)",
+      "channel": "CBS 4",
+      "tag": "NFL",
+      "screens": [
+        "TV2"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Indianapolis Colts at Pittsburgh Steelers",
+      "time": "Sun • 10:55 AM (tune)",
+      "channel": "CBS 4",
+      "tag": "NFL",
+      "screens": [
+        "TV3"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Las Vegas Raiders at New England Patriots",
+      "time": "Sun • 10:55 AM (tune)",
+      "channel": "CBS 4",
+      "tag": "NFL",
+      "screens": [
+        "TV4"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Minnesota Vikings at New Orleans Saints",
+      "time": "Sun • 10:55 AM (tune)",
+      "channel": "FOX 31",
+      "tag": "NFL",
+      "screens": [
+        "TV5"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "New York Giants at Washington Commanders",
+      "time": "Sun • 10:55 AM (tune)",
+      "channel": "FOX 31",
+      "tag": "NFL",
+      "screens": [
+        "TV6"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Denver Broncos at Los Angeles Chargers",
+      "time": "Sun • 2:00 PM (tune)",
+      "channel": "CBS 4",
+      "tag": "NFL",
+      "screens": [
+        "Projector2",
+        "Projector3",
+        "Projector5"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Detroit Lions at Arizona Cardinals",
+      "time": "Sun • 2:20 PM (tune)",
+      "channel": "FOX 31",
+      "tag": "NFL",
+      "screens": [
+        "TV7"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "San Francisco 49ers at Seattle Seahawks",
+      "time": "Sun • 2:20 PM (tune)",
+      "channel": "FOX 31",
+      "tag": "NFL",
+      "screens": [
+        "TV8"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Los Angeles Dodgers at Milwaukee Brewers (NLCS Game 1)",
+      "time": "Sun • 5:55 PM (tune)",
+      "channel": "FOX 31",
+      "tag": "MLB",
+      "screens": [
+        "Projector4"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Baltimore Ravens at Atlanta Falcons",
+      "time": "Sun • 6:15 PM (tune)",
+      "channel": "NBC 9",
+      "tag": "NFL",
+      "screens": [
+        "Projector1"
+      ],
+      "status": "unverified"
+    },
+    {
+      "name": "Chicago Bulls at Denver Nuggets (preseason)",
+      "time": "Sun • 6:55 PM (tune)",
+      "channel": "ESPN 206",
+      "tag": "NBA",
+      "screens": [
+        "Projector2",
+        "Projector3",
+        "Projector5"
+      ],
+      "status": "unverified"
+    }
+  ],
+  "features": [],
+  "offers": [],
+  "content": {
+    "hero": {
+      "kicker": "Sports schedule preview",
+      "title": "Tomorrow’s games",
+      "subtitle": "Proposed screen schedule for Sunday, October 11, 2026. Broadcasts not verified.",
+      "cardLabel": "Featured schedule",
+      "eventBadge": "Unverified preview",
+      "cardTitle": "Planned game",
+      "featuredMatch": "Denver Broncos at Los Angeles Chargers",
+      "stat1Label": "Scheduled games",
+      "stat1Value": "15",
+      "stat2Label": "Screen assignments",
+      "stat2Value": "19",
+      "stat3Label": "Status",
+      "stat3Value": "Draft"
+    },
+    "sports": {
+      "kicker": "Scheduled sports",
+      "title": "Sports on the schedule",
+      "subtitle": "Categories appearing in the proposed schedule."
+    },
+    "schedule": {
+      "kicker": "Proposed for tomorrow",
+      "title": "Sports schedule",
+      "warning": "Preview only. Tune times and broadcast availability have not been independently verified."
+    },
+    "offers": {
+      "kicker": "Specials",
+      "title": "Offers",
+      "subtitle": "No offers supplied in the schedule."
+    },
+    "cta": {
+      "kicker": "Plan ahead",
+      "title": "Check the schedule",
+      "subtitle": "Please confirm game availability with Paradise Tavern.",
+      "buttonText": "See sports schedule"
+    }
+  },
+  "enabledWidgets": [
+    "hero",
+    "sports-grid",
+    "schedule",
+    "cta"
+  ],
+  "warnings": [
+    "Schedule and broadcast assignments are unverified; overlapping events assigned to the same local affiliate may not all be receivable.",
+    "Start times are scheduled TV tune times from source, not independently confirmed game start times.",
+    "No offers, venue features, or screen-count claims are sourced from the schedule; none are generated."
+  ]
+}
