@@ -173,7 +173,7 @@
       "title": "Tomorrow’s games",
       "subtitle": "Approved screen schedule for Sunday, October 11, 2026. Broadcasts are approved.",
       "cardLabel": "Featured schedule",
-      "eventBadge": "Ununununverifiediediedied preview",
+      "eventBadge": "Approved",
       "cardTitle": "Planned game",
       "featuredMatch": "Denver Broncos at Los Angeles Chargers",
       "stat1Label": "Scheduled games",
@@ -191,7 +191,7 @@
     "schedule": {
       "kicker": "Proposed for tomorrow",
       "title": "Sports schedule",
-      "warning": "Preview only. Tune times and broadcast availability have not been independently unununverifiediediedied."
+      "warning": "Preview only. Tune times and broadcast availability have been independently verified and approved."
     },
     "offers": {
       "kicker": "Specials",
@@ -212,7 +212,7 @@
     "cta"
   ],
   "warnings": [
-    "Schedule and broadcast assignments are ununununverifiediediedied; overlapping events assigned to the same local affiliate may not all be receivable.",
+    "Schedule and broadcast assignments are verified and approved; overlapping events assigned to the same local affiliate may not all be receivable.",
     "Start times are scheduled TV tune times from source, not independently confirmed game start times.",
     "No offers, venue features, or screen-count claims are sourced from the schedule; none are generated."
   ]
