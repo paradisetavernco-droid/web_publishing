@@ -1,0 +1,131 @@
+{
+  "page_id": "website:paradise-demo:sports-and-offers",
+  "tenant_id": "paradise-demo",
+  "venue_name": "Paradise Tavern",
+  "publication_status": "draft",
+  "event_verified": true,
+  "valid_from": "2026-10-11",
+  "valid_until": "",
+  "routes": [
+    {
+      "route_id": "today",
+      "path": "/today/",
+      "label": "Today",
+      "filters": {
+        "event_verified": true,
+        "scope": "day"
+      },
+      "allowed_sports": ["NFL", "NBA", "MLB", "Cricket", "Soccer", "Tennis"]
+    },
+    {
+      "route_id": "sports",
+      "path": "/sports/",
+      "label": "Sports",
+      "filters": {
+        "event_verified": true,
+        "scope": "all"
+      },
+      "allowed_sports": ["NFL", "NBA", "MLB", "Cricket", "Soccer", "Tennis", "NLL"]
+    },
+    {
+      "route_id": "sports_today",
+      "path": "/sports/today/",
+      "label": "Sports Today",
+      "filters": {
+        "event_verified": true,
+        "scope": "day"
+      },
+      "allowed_sports": ["NFL", "NBA", "MLB", "Cricket", "Soccer", "Tennis"]
+    },
+    {
+      "route_id": "sports_broncos",
+      "path": "/sports/broncos/",
+      "label": "Broncos",
+      "filters": {
+        "event_verified": true,
+        "scope": "broncos"
+      },
+      "allowed_sports": ["NFL"]
+    },
+    {
+      "route_id": "sports_cricket",
+      "path": "/sports/cricket/",
+      "label": "Cricket",
+      "filters": {
+        "event_verified": true,
+        "scope": "cricket"
+      },
+      "allowed_sports": ["Cricket"]
+    },
+    {
+      "route_id": "offers",
+      "path": "/offers/",
+      "label": "Offers",
+      "filters": {
+        "offer_approved": true,
+        "scope": "offers"
+      }
+    }
+  ],
+  "featured_events": [
+    {
+      "event_name": "NFL: Denver Broncos @ Kansas City Chiefs",
+      "sport": "NFL",
+      "start_time": "2026-10-11 16:25:00",
+      "end_time": "2026-10-11 19:05:00",
+      "channel": "CBS",
+      "screen_count": 0,
+      "marketing_priority_score": 0,
+      "event_verified": true,
+      "publication_status": "approved",
+      "sanitization_reason": "Verified event label accepted for public publication.",
+      "widget": "W41",
+      "widget_variant": "featured"
+    }
+  ],
+  "offers": [
+    {
+      "offer_name": "Broncos Happy Hour",
+      "sport": "NFL",
+      "price": 9.0,
+      "approval_status": "approved",
+      "offer_approved": true,
+      "publication_status": "approved",
+      "sanitization_reason": "Approved offer accepted for public publication.",
+      "widget": "W61",
+      "widget_variant": "tiered"
+    }
+  ],
+  "design_registry": {
+    "widgets": {
+      "W21": {
+        "name": "HeroBanner",
+        "allowed_variants": ["sports", "offers", "default"],
+        "purpose": "Top-of-page hero banner for featured events or promos.",
+        "required_fields": ["headline", "subheadline", "cta"]
+      },
+      "W41": {
+        "name": "GameCard",
+        "allowed_variants": ["featured", "compact", "dark"],
+        "purpose": "Single event card with verified matchup information.",
+        "required_fields": ["event_name", "time", "sport", "channel"]
+      },
+      "W61": {
+        "name": "OfferCard",
+        "allowed_variants": ["combo", "tiered", "happy-hour"],
+        "purpose": "Offer or food-and-drink promotion card.",
+        "required_fields": ["offer_name", "price", "description"]
+      }
+    },
+    "default_theme": {
+      "name": "Paradise Game Day",
+      "palette": ["black", "gold", "white"],
+      "tone": "premium sports bar"
+    }
+  },
+  "sanitization_notes": [
+    "Only verified events are allowed to appear in the public projection.",
+    "Generic or placeholder matchup labels are quarantined before publication.",
+    "Offer approval is kept separate from event verification; both must pass before release."
+  ]
+}
