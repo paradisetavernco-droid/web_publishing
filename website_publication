@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0",
+  "publication_status": "draft_unverified",
+  "target_date": "2026-10-11",
+  "timezone": "America/Denver",
+  "source_file": "add_schedule_tomorrow_20261010_223027.json",
+  "payload": {
+    "sports": [
+      {
+        "id": "nfl-denver-broncos-at-los-angeles-chargers-20261011",
+        "title": "Denver Broncos at Los Angeles Chargers",
+        "sport": "NFL",
+        "start_at": "2026-10-11T14:05:00-06:00",
+        "end_at": "2026-10-11T18:05:00-06:00",
+        "channel": "CBS",
+        "channel_number": 4,
+        "screens_planned": 3,
+        "status": "unverified",
+        "priority": "Highest",
+        "rank": 1,
+        "screens": [
+          "Projector2",
+          "Projector3",
+          "Projector5"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-philadelphia-eagles-at-jacksonville-jaguars-20261011",
+        "title": "Philadelphia Eagles at Jacksonville Jaguars",
+        "sport": "NFL",
+        "start_at": "2026-10-11T07:30:00-06:00",
+        "end_at": "2026-10-11T11:30:00-06:00",
+        "channel": "NFL Network",
+        "channel_number": 212,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 2,
+        "screens": [
+          "Projector5"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-chicago-bears-at-green-bay-packers-20261011",
+        "title": "Chicago Bears at Green Bay Packers",
+        "sport": "NFL",
+        "start_at": "2026-10-11T11:00:00-06:00",
+        "end_at": "2026-10-11T15:00:00-06:00",
+        "channel": "FOX",
+        "channel_number": 31,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 3,
+        "screens": [
+          "Projector1"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-cincinnati-bengals-at-miami-dolphins-20261011",
+        "title": "Cincinnati Bengals at Miami Dolphins",
+        "sport": "NFL",
+        "start_at": "2026-10-11T11:00:00-06:00",
+        "end_at": "2026-10-11T15:00:00-06:00",
+        "channel": "FOX",
+        "channel_number": 31,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 4,
+        "screens": [
+          "Projector4"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-cleveland-browns-at-new-york-jets-20261011",
+        "title": "Cleveland Browns at New York Jets",
+        "sport": "NFL",
+        "start_at": "2026-10-11T11:00:00-06:00",
+        "end_at": "2026-10-11T15:00:00-06:00",
+        "channel": "CBS",
+        "channel_number": 4,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 5,
+        "screens": [
+          "TV1"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-houston-texans-at-tennessee-titans-20261011",
+        "title": "Houston Texans at Tennessee Titans",
+        "sport": "NFL",
+        "start_at": "2026-10-11T11:00:00-06:00",
+        "end_at": "2026-10-11T15:00:00-06:00",
+        "channel": "CBS",
+        "channel_number": 4,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 6,
+        "screens": [
+          "TV2"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-indianapolis-colts-at-pittsburgh-steelers-20261011",
+        "title": "Indianapolis Colts at Pittsburgh Steelers",
+        "sport": "NFL",
+        "start_at": "2026-10-11T11:00:00-06:00",
+        "end_at": "2026-10-11T15:00:00-06:00",
+        "channel": "CBS",
+        "channel_number": 4,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 7,
+        "screens": [
+          "TV3"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-las-vegas-raiders-at-new-england-patriots-20261011",
+        "title": "Las Vegas Raiders at New England Patriots",
+        "sport": "NFL",
+        "start_at": "2026-10-11T11:00:00-06:00",
+        "end_at": "2026-10-11T15:00:00-06:00",
+        "channel": "CBS",
+        "channel_number": 4,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 8,
+        "screens": [
+          "TV4"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-minnesota-vikings-at-new-orleans-saints-20261011",
+        "title": "Minnesota Vikings at New Orleans Saints",
+        "sport": "NFL",
+        "start_at": "2026-10-11T11:00:00-06:00",
+        "end_at": "2026-10-11T15:00:00-06:00",
+        "channel": "FOX",
+        "channel_number": 31,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 9,
+        "screens": [
+          "TV5"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-new-york-giants-at-washington-commanders-20261011",
+        "title": "New York Giants at Washington Commanders",
+        "sport": "NFL",
+        "start_at": "2026-10-11T11:00:00-06:00",
+        "end_at": "2026-10-11T15:00:00-06:00",
+        "channel": "FOX",
+        "channel_number": 31,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 10,
+        "screens": [
+          "TV6"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-detroit-lions-at-arizona-cardinals-20261011",
+        "title": "Detroit Lions at Arizona Cardinals",
+        "sport": "NFL",
+        "start_at": "2026-10-11T14:25:00-06:00",
+        "end_at": "2026-10-11T18:25:00-06:00",
+        "channel": "FOX",
+        "channel_number": 31,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 11,
+        "screens": [
+          "TV7"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-san-francisco-49ers-at-seattle-seahawks-20261011",
+        "title": "San Francisco 49ers at Seattle Seahawks",
+        "sport": "NFL",
+        "start_at": "2026-10-11T14:25:00-06:00",
+        "end_at": "2026-10-11T18:25:00-06:00",
+        "channel": "FOX",
+        "channel_number": 31,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 12,
+        "screens": [
+          "TV8"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nfl-baltimore-ravens-at-atlanta-falcons-20261011",
+        "title": "Baltimore Ravens at Atlanta Falcons",
+        "sport": "NFL",
+        "start_at": "2026-10-11T18:20:00-06:00",
+        "end_at": "2026-10-11T22:20:00-06:00",
+        "channel": "NBC",
+        "channel_number": 9,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 13,
+        "screens": [
+          "Projector1"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "nba-chicago-bulls-at-denver-nuggets-preseason-20261011",
+        "title": "Chicago Bulls at Denver Nuggets (preseason)",
+        "sport": "NBA",
+        "start_at": "2026-10-11T19:00:00-06:00",
+        "end_at": "2026-10-11T22:00:00-06:00",
+        "channel": "ESPN",
+        "channel_number": 206,
+        "screens_planned": 3,
+        "status": "unverified",
+        "priority": "High",
+        "rank": 14,
+        "screens": [
+          "Projector2",
+          "Projector3",
+          "Projector5"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      },
+      {
+        "id": "mlb-los-angeles-dodgers-at-milwaukee-brewers-nlcs-game-1-20261011",
+        "title": "Los Angeles Dodgers at Milwaukee Brewers (NLCS Game 1)",
+        "sport": "MLB",
+        "start_at": "2026-10-11T18:00:00-06:00",
+        "end_at": "2026-10-11T21:00:00-06:00",
+        "channel": "FOX",
+        "channel_number": 31,
+        "screens_planned": 1,
+        "status": "unverified",
+        "priority": "Medium",
+        "rank": 15,
+        "screens": [
+          "Projector4"
+        ],
+        "source": "add_schedule_tomorrow_20261010_223027.json",
+        "notes": "Proposed TV assignment; kickoff derived from tune time + 5 minutes. Broadcast and venue showing not independently verified."
+      }
+    ],
+    "routes": [
+      {
+        "path": "/sports",
+        "allowed_sports": [
+          "nfl-denver-broncos-at-los-angeles-chargers-20261011",
+          "nfl-philadelphia-eagles-at-jacksonville-jaguars-20261011",
+          "nfl-chicago-bears-at-green-bay-packers-20261011",
+          "nfl-cincinnati-bengals-at-miami-dolphins-20261011",
+          "nfl-cleveland-browns-at-new-york-jets-20261011",
+          "nfl-houston-texans-at-tennessee-titans-20261011",
+          "nfl-indianapolis-colts-at-pittsburgh-steelers-20261011",
+          "nfl-las-vegas-raiders-at-new-england-patriots-20261011",
+          "nfl-minnesota-vikings-at-new-orleans-saints-20261011",
+          "nfl-new-york-giants-at-washington-commanders-20261011",
+          "nfl-detroit-lions-at-arizona-cardinals-20261011",
+          "nfl-san-francisco-49ers-at-seattle-seahawks-20261011",
+          "nfl-baltimore-ravens-at-atlanta-falcons-20261011",
+          "nba-chicago-bulls-at-denver-nuggets-preseason-20261011",
+          "mlb-los-angeles-dodgers-at-milwaukee-brewers-nlcs-game-1-20261011"
+        ]
+      }
+    ]
+  },
+  "warnings": [
+    "Proposed schedule only. Fixtures, local broadcast carriage, and venue showings have not been independently verified. Multiple simultaneous games listed on one local CBS/FOX feed cannot all be shown on that feed.",
+    "Local Denver channel numbers 4, 9 and 31 are provisional receiver tuning numbers.",
+    "End times are estimates in the source schedule; start_at uses the source tune time plus five minutes."
+  ]
+}
